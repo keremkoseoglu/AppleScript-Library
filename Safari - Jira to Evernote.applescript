@@ -1,7 +1,6 @@
 ﻿
 # ______________________________
 # Generic functions
-# KEREM
 
 on findAndReplaceInText(theText, theSearchString, theReplacementString)
 	set AppleScript's text item delimiters to theSearchString
